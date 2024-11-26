@@ -1,5 +1,5 @@
 function getBaseUrl() {
-  return "https://csc-309-e11.vercel.app/";
+  return "https://csc-309-e11-fh2r.vercel.app/";
 }
 
 function getUTorId() {
